@@ -1,2 +1,3 @@
 # mikinko
 moje
+som clovek
